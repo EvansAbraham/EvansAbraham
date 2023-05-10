@@ -119,9 +119,9 @@
 
 
 <br>
-<p align="centre">
+<!--p align="centre">
  
-[![Evans Abraham's github activity graph](https://activity-graph.herokuapp.com/graph?username=EvansAbraham)](https://github.com/EvansAbraham/github-readme-activity-graph) </p>
+[![Evans Abraham's github activity graph](https://activity-graph.herokuapp.com/graph?username=EvansAbraham)](https://github.com/EvansAbraham/github-readme-activity-graph) </p-->
 
  <br> 
  
