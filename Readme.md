@@ -146,16 +146,16 @@
   <img align="center" alt="Jopraveen | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-  
-<br>
+  <!-- retro visitor counter circle --> 
+<!--<br>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter circle -->  
+ 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/jopraveen/count.svg" />  
 </p>
   <br>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p>-->
