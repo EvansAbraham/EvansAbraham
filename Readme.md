@@ -1,6 +1,7 @@
 ### Yo ✌️ 
-## I'm Evans Abraham
 
+![YO](https://github.com/EvansAbraham/EvansAbraham/blob/main/Assets/luffy.gif?raw=true)
+## I'm Evans Abraham
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; 21y/o Studying Computer Science & Engineering
