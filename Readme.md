@@ -136,14 +136,14 @@
 <a href="https://www.linkedin.com/in/evansabraham" target="_blank">
   <img align="center" alt="Evans Abraham | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/jopraveen18" target="_blank">
-  <img align="center" alt="Jopraveen | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+<a href="https://twitter.com/EvansAbraham_J" target="_blank">
+  <img align="center" alt="EvansAbraham_J | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/jopraveen_18" target="_blank">
-  <img align="center" alt="Jopraveen | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+<a href="https://www.instagram.com/evans_abraham_j" target="_blank">
+  <img align="center" alt="Evans Abraham | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:jopraveen18yt@gmail.com" >
-  <img align="center" alt="Jopraveen | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:evansrajasingh.er@gmail.com" >
+  <img align="center" alt="Evans Abraham | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
   <!-- retro visitor counter circle --> 
