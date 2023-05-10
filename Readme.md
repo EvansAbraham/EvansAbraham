@@ -1,5 +1,4 @@
 ### Yo ✌️ 
-<div><img src=""/></div>
 ## I'm Evans Abraham
 
 ### 💻 &nbsp;About Me 
