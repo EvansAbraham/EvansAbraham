@@ -131,7 +131,7 @@
  <br>
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>Let's Get Connected! ✌️😄</b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/evansabraham" target="_blank">
