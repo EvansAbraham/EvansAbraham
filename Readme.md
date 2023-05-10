@@ -121,7 +121,7 @@
 <br>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evansabraham&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![Evans Abraham's github activity graph](https://activity-graph.herokuapp.com/graph?username=EvansAbraham)](https://github.com/EvansAbraham/github-readme-activity-graph)  </p>
 
  <br> 
  
