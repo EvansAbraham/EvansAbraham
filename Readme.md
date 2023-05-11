@@ -122,10 +122,6 @@
 [![Evans Abraham's github activity graph](https://activity-graph.herokuapp.com/graph?username=EvansAbraham)](https://github.com/EvansAbraham/github-readme-activity-graph) </p-->
 
  <br> 
- 
- <hr>
- 
- <br>
 
   <div align="center">
   <h3><b>Let's Get Connected! ✌️😄</b></h3>
