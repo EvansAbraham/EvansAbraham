@@ -1,5 +1,4 @@
-### Yo ✌️ 
-## I'm Evans Abraham
+## Yo ✌️ I'm Evans Abraham  
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; 21y/o Studying Computer Science & Engineering
