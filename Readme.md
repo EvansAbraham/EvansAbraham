@@ -1,6 +1,4 @@
 ### Yo ✌️ 
-
-![YO](https://github.com/EvansAbraham/EvansAbraham/blob/main/Assets/luffy.gif?raw=true)
 ## I'm Evans Abraham
 ### 💻 &nbsp;About Me 
 
